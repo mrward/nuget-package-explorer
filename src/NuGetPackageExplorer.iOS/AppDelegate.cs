@@ -5,6 +5,7 @@ using System.Linq;
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
+using NuGetPackageExplorer.Core;
 using Xamarin.Forms;
 
 namespace NuGetPackageExplorer.iOS
