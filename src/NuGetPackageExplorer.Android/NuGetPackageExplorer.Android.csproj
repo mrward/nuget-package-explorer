@@ -80,6 +80,9 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\Drawable\Icon.png" />
+    <AndroidResource Include="..\NuGetPackageExplorer.Core\Resources\packageicon.png">
+      <Link>Resources\Drawable\packageicon.png</Link>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Properties\AndroidManifest.xml" />
